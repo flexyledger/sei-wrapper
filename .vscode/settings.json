@@ -1,0 +1,5 @@
+{
+    "rust-analyzer.linkedProjects": [
+        "./sei-wrapper/Cargo.toml"
+    ]
+}
